@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="Hello_World_first_pkg_GL",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="Gabriel_Lima",
+    author_email="gabriel_plima@hotmail.com",
+    description="Learning how to create my first package and print: Hello World",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/GaPinheiro/simple-package-template.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',

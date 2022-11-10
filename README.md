@@ -1,27 +1,27 @@
-# package_name
+# Hello_World_first_pkg_GL
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package # Hello_World_first_pkg_GL is just for learning how to create my first package. 
+
+- Seguir o passo a passo do PDF: **descomplicando_a_criação_de_pacotes_slides_em_python**
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Hello_World_first_pkg_GL
 
 ```bash
-pip install package_name
+pip install Hello_World_first_pkg_GL
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from Hello_World_first_pkg_GL import Hello_World
+Hello_World.my_function()
 ```
 
 ## Author
-My_name
+Gabriel_Lima
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
